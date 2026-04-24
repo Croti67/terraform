@@ -1,0 +1,3 @@
+instancia_publica $(aws_instance.instancia_publica.public_ip) 
+instancia_publica $(aws_instance.instancia_publica.public_ip) destruida 
+instancia_publica $(aws_instance.instancia_publica.public_ip) 
